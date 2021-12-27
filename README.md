@@ -5,3 +5,4 @@ Line Plot, Scatterplot, Pie Chart, Histograms, Multiple Plots, Subplots, 3D Plot
 
 
 
+Manipulating daily stock returns of AAPL, GOOG, S&P500, etc.
